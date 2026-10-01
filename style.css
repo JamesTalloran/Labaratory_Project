@@ -926,10 +926,13 @@ footer{
         gap: 25px;
         padding: 0;
     }
-
-
-    /* Input */
-
+    
+    .block10dop {
+    flex-direction: column;
+    gap: 25px;
+    padding: 0;
+}
+    
     .section10 {
         width: auto;
         height: auto;
