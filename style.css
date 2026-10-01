@@ -469,6 +469,11 @@ span{
     justify-content: space-around;
     align-items: center;
 }
+.block10dop{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
 .box3{
     width: 220px;
     height: 280px;
@@ -477,11 +482,6 @@ span{
 
     position: relative;
     overflow: hidden;
-}
-.block10dop{
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
 }
 .bio {
     position: absolute;
